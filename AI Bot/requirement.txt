@@ -1,2 +1,3 @@
 levenshtein
 numpy
+customtkinter
